@@ -1,4 +1,4 @@
-##  Hi there 👋, I am Farasat Ali 
+##  Hi there 👋, I am Waleed Shaikh 
 
 ####  I am currently a student and a Front-End Developer
 
