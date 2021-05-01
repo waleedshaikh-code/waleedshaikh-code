@@ -1,16 +1,20 @@
-👋 Things that will help you know me better:
+##  Hi there 👋, I am Farasat Ali 
 
-I am currently a student and a Front-End Developer
+####  I am currently a student and a Front-End Developer
 
-![Profile views](https://gpvc.arturio.dev/faraasat)  
+![Profile views](https://gpvc.arturio.dev/waleedshaikh-code)  
 
 
-🚀 I am very passionate and open towards learning and discussing about new technologies and frameworks!
-🎓 I am student of Computer Science and persuing my Bachelors degree at Bahria University Karachi Campus.
-🔭 I am currently working on a Reactjs and building my Portfolio.
-🔥 In my free time, I love to learn new exciting things from youtube, which would help for my better future.
-📧 You can contact me at any time at waleedshykh5@gmail.com. I'll try to respond ASAP!!
-⚡ Fun fact: I want to travel to and visit every country on this planet.
+### ✌ Things that will help you know me better:
+
+  
+  - 🚀 I am very passionate and open towards learning and discussing about new technologies and frameworks!
+  - 🎓 I am student of Computer Science and persuing my Bachelors degree at Bahria University Karachi Campus.
+  - 🔭 I am currently working on a Reactjs and building my Portfolio.
+  - 🔥 In my free time, I love to learn new things from youtube.
+  - 📧 You can contact me at any time at <a href="mailto:waleedshykh5@gmail.com">waleedshykh5@gmail.com</a>. I'll try to respond ASAP!!
+  - ⚡ Fun fact: I want to travel to and visit every country on this planet.
+
 
 ### 📡 Tech Stack:
 
@@ -46,9 +50,6 @@ I am currently a student and a Front-End Developer
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedshaikh-code&layout=compact&langs_count=8&theme=jolly"/><img src="https://activity-graph.herokuapp.com/graph?username=waleedshaikh-code"/>
   </a>
 </p>
-<!--![GitHub metrics](https://metrics.lecoq.io/faraasat)-->  
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=faraasat)](https://github.com/ryo-ma/github-profile-trophy)-->
-<!--<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>-->
 
 ### 🤙 Connect with Me:
 
