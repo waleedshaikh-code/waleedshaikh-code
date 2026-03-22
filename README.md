@@ -18,5 +18,4 @@ React.js • Next.js • JavaScript • TypeScript • Node.js • Express.js �
 - Frontend dashboards and reusable UI components
 
 ## Connect
-- LinkedIn: [your link]
-- Portfolio: [your link]
+- LinkedIn: https://www.linkedin.com/in/muhammad-waleed-shaikh/
